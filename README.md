@@ -32,7 +32,6 @@ node app.js
 
 3 - Access endpoints:
 - http://localhost:3000/authors
-- http://localhost:3000/books
 
 ### Purpose
 This exercise helps me practice:- Structuring an Express.js project with clear separation of concerns
